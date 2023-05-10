@@ -1,0 +1,98 @@
+Iniciando programa
+Iniciando thread -641284368
+Iniciando iteracion 1
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284368 - (!) Recurso tomado
+-641284368 - Buenos dias! Recurso usado
+Iniciando thread -641284360
+Iniciando iteracion 1
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284360 - (!) Recurso tomado
+-641284360 - Buenos dias! Recurso usado
+Iniciando thread -641284356
+Iniciando iteracion 1
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284356 - (!) Recurso tomado
+-641284356 - Buenos dias! Recurso usado
+Iniciando thread -641284364
+Iniciando iteracion 1
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos insuficientes
+Mutex liberado
+Iniciando iteracion 2
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos insuficientes
+Mutex liberado
+Iniciando thread -641284352
+Iniciando iteracion 1
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos insuficientes
+Mutex liberado
+Iniciando iteracion 2
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos insuficientes
+Mutex liberado
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284356 - Recurso devuelto!
+Iniciando iteracion 2
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284356 - (!) Recurso tomado
+-641284356 - Buenos dias! Recurso usado
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284368 - Recurso devuelto!
+Iniciando iteracion 2
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284368 - (!) Recurso tomado
+-641284368 - Buenos dias! Recurso usado
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284360 - Recurso devuelto!
+Iniciando iteracion 2
+Iniciando decrease_count
+Mutex adquirido, entrando al monitor
+Recursos suficientes disponibles, consumiendo...
+Mutex liberado
+-641284360 - (!) Recurso tomado
+-641284360 - Buenos dias! Recurso usado
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284356 - Recurso devuelto!
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284360 - Recurso devuelto!
+Iniciando increase_count
+Mutex adquirido, entrando al monitor
+Avisando al resto
+Mutex liberado
+-641284368 - Recurso devuelto!

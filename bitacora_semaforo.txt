@@ -1,0 +1,213 @@
+Iniciando programa
+Creando threads
+Iniciando thread 6462080
+Iniciando thread 6462084
+Iniciando iteracion 1
+6462084 - (!) Recurso tomado
+6462084 - Buenos dias! Recurso usado
+Iniciando thread 6462096
+Iniciando iteracion 1
+6462096 - (!) Recurso tomado
+6462096 - Buenos dias! Recurso usado
+Iniciando iteracion 1
+6462080 - (!) Recurso tomado
+6462080 - Buenos dias! Recurso usado
+Iniciando thread 6462100
+Iniciando iteracion 1
+Iniciando thread 6462104
+Iniciando iteracion 1
+Iniciando thread 6462108
+Iniciando iteracion 1
+Iniciando thread 6462092
+Iniciando iteracion 1
+Esperando threads
+Iniciando thread 6462088
+Iniciando iteracion 1
+Iniciando thread 6462116
+Iniciando iteracion 1
+Iniciando thread 6462112
+Iniciando iteracion 1
+6462080 - Recurso devuelto!
+Iniciando iteracion 2
+6462080 - (!) Recurso tomado
+6462080 - Buenos dias! Recurso usado
+6462084 - Recurso devuelto!
+Iniciando iteracion 2
+6462084 - (!) Recurso tomado
+6462084 - Buenos dias! Recurso usado
+6462096 - Recurso devuelto!
+Iniciando iteracion 2
+6462096 - (!) Recurso tomado
+6462096 - Buenos dias! Recurso usado
+6462080 - Recurso devuelto!
+Iniciando iteracion 3
+6462080 - (!) Recurso tomado
+6462080 - Buenos dias! Recurso usado
+6462096 - Recurso devuelto!
+Iniciando iteracion 3
+6462096 - (!) Recurso tomado
+6462096 - Buenos dias! Recurso usado
+6462084 - Recurso devuelto!
+Iniciando iteracion 3
+6462084 - (!) Recurso tomado
+6462084 - Buenos dias! Recurso usado
+6462096 - Recurso devuelto!
+Iniciando iteracion 4
+6462096 - (!) Recurso tomado
+6462096 - Buenos dias! Recurso usado
+6462080 - Recurso devuelto!
+Iniciando iteracion 4
+6462080 - (!) Recurso tomado
+6462080 - Buenos dias! Recurso usado
+6462084 - Recurso devuelto!
+Iniciando iteracion 4
+6462084 - (!) Recurso tomado
+6462084 - Buenos dias! Recurso usado
+6462096 - Recurso devuelto!
+Iniciando iteracion 5
+6462096 - (!) Recurso tomado
+6462096 - Buenos dias! Recurso usado
+6462080 - Recurso devuelto!
+Iniciando iteracion 5
+6462080 - (!) Recurso tomado
+6462080 - Buenos dias! Recurso usado
+6462084 - Recurso devuelto!
+Iniciando iteracion 5
+6462084 - (!) Recurso tomado
+6462084 - Buenos dias! Recurso usado
+6462080 - Recurso devuelto!
+6462112 - (!) Recurso tomado
+6462112 - Buenos dias! Recurso usado
+6462096 - Recurso devuelto!
+6462116 - (!) Recurso tomado
+6462116 - Buenos dias! Recurso usado
+6462084 - Recurso devuelto!
+6462100 - (!) Recurso tomado
+6462100 - Buenos dias! Recurso usado
+6462116 - Recurso devuelto!
+Iniciando iteracion 2
+6462116 - (!) Recurso tomado
+6462116 - Buenos dias! Recurso usado
+6462112 - Recurso devuelto!
+Iniciando iteracion 2
+6462112 - (!) Recurso tomado
+6462112 - Buenos dias! Recurso usado
+6462100 - Recurso devuelto!
+Iniciando iteracion 2
+6462100 - (!) Recurso tomado
+6462100 - Buenos dias! Recurso usado
+6462116 - Recurso devuelto!
+Iniciando iteracion 3
+6462116 - (!) Recurso tomado
+6462116 - Buenos dias! Recurso usado
+6462112 - Recurso devuelto!
+Iniciando iteracion 3
+6462112 - (!) Recurso tomado
+6462112 - Buenos dias! Recurso usado
+6462100 - Recurso devuelto!
+6462104 - (!) Recurso tomado
+6462104 - Buenos dias! Recurso usado
+6462112 - Recurso devuelto!
+Iniciando iteracion 3
+6462100 - (!) Recurso tomado
+6462100 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+6462116 - Recurso devuelto!
+Iniciando iteracion 4
+6462116 - (!) Recurso tomado
+6462116 - Buenos dias! Recurso usado
+6462104 - Recurso devuelto!
+Iniciando iteracion 2
+6462104 - (!) Recurso tomado
+6462104 - Buenos dias! Recurso usado
+6462100 - Recurso devuelto!
+Iniciando iteracion 4
+6462100 - (!) Recurso tomado
+6462100 - Buenos dias! Recurso usado
+6462116 - Recurso devuelto!
+6462112 - (!) Recurso tomado
+6462112 - Buenos dias! Recurso usado
+6462104 - Recurso devuelto!
+Iniciando iteracion 3
+6462104 - (!) Recurso tomado
+6462104 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+6462100 - Recurso devuelto!
+Iniciando iteracion 5
+6462100 - (!) Recurso tomado
+6462100 - Buenos dias! Recurso usado
+6462112 - Recurso devuelto!
+6462092 - (!) Recurso tomado
+6462092 - Buenos dias! Recurso usado
+6462104 - Recurso devuelto!
+Iniciando iteracion 4
+6462104 - (!) Recurso tomado
+6462104 - Buenos dias! Recurso usado
+Iniciando iteracion 5
+6462092 - Recurso devuelto!
+Iniciando iteracion 2
+6462092 - (!) Recurso tomado
+6462092 - Buenos dias! Recurso usado
+6462104 - Recurso devuelto!
+Iniciando iteracion 5
+6462104 - (!) Recurso tomado
+6462104 - Buenos dias! Recurso usado
+6462100 - Recurso devuelto!
+6462088 - (!) Recurso tomado
+6462088 - Buenos dias! Recurso usado
+6462092 - Recurso devuelto!
+Iniciando iteracion 3
+6462092 - (!) Recurso tomado
+6462092 - Buenos dias! Recurso usado
+6462088 - Recurso devuelto!
+Iniciando iteracion 2
+6462088 - (!) Recurso tomado
+6462088 - Buenos dias! Recurso usado
+6462092 - Recurso devuelto!
+Iniciando iteracion 4
+6462092 - (!) Recurso tomado
+6462092 - Buenos dias! Recurso usado
+6462104 - Recurso devuelto!
+6462112 - (!) Recurso tomado
+6462112 - Buenos dias! Recurso usado
+6462088 - Recurso devuelto!
+Iniciando iteracion 3
+6462088 - (!) Recurso tomado
+6462088 - Buenos dias! Recurso usado
+6462088 - Recurso devuelto!
+6462108 - (!) Recurso tomado
+6462108 - Buenos dias! Recurso usado
+6462092 - Recurso devuelto!
+6462116 - (!) Recurso tomado
+6462116 - Buenos dias! Recurso usado
+Iniciando iteracion 4
+Iniciando iteracion 5
+6462112 - Recurso devuelto!
+6462088 - (!) Recurso tomado
+6462088 - Buenos dias! Recurso usado
+6462108 - Recurso devuelto!
+Iniciando iteracion 2
+6462108 - (!) Recurso tomado
+6462108 - Buenos dias! Recurso usado
+6462116 - Recurso devuelto!
+6462092 - (!) Recurso tomado
+6462092 - Buenos dias! Recurso usado
+6462092 - Recurso devuelto!
+6462088 - Recurso devuelto!
+Iniciando iteracion 5
+6462088 - (!) Recurso tomado
+6462088 - Buenos dias! Recurso usado
+6462108 - Recurso devuelto!
+Iniciando iteracion 3
+6462108 - (!) Recurso tomado
+6462108 - Buenos dias! Recurso usado
+6462088 - Recurso devuelto!
+6462108 - Recurso devuelto!
+Iniciando iteracion 4
+6462108 - (!) Recurso tomado
+6462108 - Buenos dias! Recurso usado
+6462108 - Recurso devuelto!
+Iniciando iteracion 5
+6462108 - (!) Recurso tomado
+6462108 - Buenos dias! Recurso usado
+6462108 - Recurso devuelto!
