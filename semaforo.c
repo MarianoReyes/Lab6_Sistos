@@ -1,3 +1,5 @@
+// Lab 6 Sistos, Jose Reyes: Semaforo
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
